@@ -24,7 +24,7 @@ Periodically conduct risk assesments to identify potential hazards and implement
 Leverage modular design principles to break down complex systems into manageable and reusable components.
 Remember, the end user should be able to operate the system with minimal trainning.
 Pay attention to detail – even small typographical errors can lead to significant issues in your PLC programs.
-Consider the enviroment in which the automation system will operate; extreme conditions may require additional safeguards.
+Consider the environment in which the automation system will operate; extreme conditions may require additional safeguards.
 Ensure that your design adheres to all relevant regualtions and standards in the field of automation engineering.
 Regularly update your softare tools to take advantage of new features and security patches.
 Utilize git hub or a similar platform for collaborative development and version control.
